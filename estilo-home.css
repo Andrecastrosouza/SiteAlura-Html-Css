@@ -1,0 +1,27 @@
+
+
+#banner{width: 100%;}
+
+.principal{background: #cccccc; padding: 30px;}
+
+.titulo-princi{padding-left: 20px;}
+
+.titulo-center{ text-align: center;}
+
+p { text-align: center; }
+
+#pe1{ font-size: 20px;}
+
+strong{color: red;}
+
+.itens{ font-style: oblique;}
+
+.beneficios{background: #ffffff; padding: 20px;}
+
+.titulo-center{text-align: center;}
+
+ul{display: inline-block; vertical-align: top; width: 20%; margin-right: 15%;} 
+
+.imagembene{width: 50%;}
+
+
